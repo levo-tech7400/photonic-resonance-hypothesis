@@ -10,9 +10,9 @@ This repository presents the *Photonic Resonance Hypothesis*, a conceptual frame
 ---
 
 ## Files  
-- `Photonic_Resonance_Hypothesis_Levent_Erdost.docx` — Full manuscript  
-- `Dataset_Photonic_Resonance_LeventErdost.csv` — Theoretical dataset (optional)  
-- `Levent_Erdost_Professional_CV.pdf` — Author background  
+- `Photonic Resonance Hypothesis Author_ Levent Erdost.docx` — Full manuscript  
+
+- `Levent_Erdost.pdf` — Author background  
 
 ---
 
